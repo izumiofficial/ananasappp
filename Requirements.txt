@@ -1,0 +1,21 @@
+Device requirements
+
+#this app was developed strictly follows the flow that was provided by the client
+
+Minimum
+OS: Adroid version 5.1 (API 21)
+Screen resolution: 5-inch 300dpi
+Internal Storage: 8GB
+Memory: 1GB
+
+Recomended
+OS: Adroid version 7 (API 24)
+Screen resolution: 5.7-inch 400dpi
+Internal Storage: 32GB
+Memory: 2GB
+
+#device running on minimum requirements might encounter layout problems, missing attribute and wierd view.
+
+#this is because current android support limits the usage for old devices.
+
+#Do upgrade your android phone if possible ;-)
